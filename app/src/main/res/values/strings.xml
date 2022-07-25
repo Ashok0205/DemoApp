@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MvvmSample</string>
+
+    <string name="err_email_missing">Please enter an email id</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="err_name_missing">Please enter name</string>
+    <string name="err_password_missing">Please enter password</string>
+    <string name="err_email_invalid">Please enter valid email id</string>
+    <string name="err_password_length_invalid">Password length should be 8 to 20</string>
+
+    <string name="bad_response">Bad Response</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_network_connected">No Network Connected</string>
+    <string name="msg_app_logout_confirmation">Are you sure you want to logout?</string>
+    <string name="msg_app_close">Are you sure you want to close the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="facebook_app_id">488658835130626</string>
+    <string name="fb_login_protocol_scheme">fb488658835130626</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="frag_detail">Detail</string>
+
+    <string name="login_successful">login_success</string>
+</resources>
